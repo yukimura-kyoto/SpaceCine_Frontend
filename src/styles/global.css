@@ -5,3 +5,14 @@
   border: none;
   box-sizing: border-box; /* Garante que o elemento tenha largura e altura que eu defini, mesmo após o padding */
 }
+
+/* Variaveis */
+:root{
+    --color-purple300: #C77DFF;
+    --color-purple400: #9D4EDD;
+    --color-purple500: #7B2CBF;
+    --color-purple600: #5A189A;
+    --color-purple700: #3C096C;
+    --color-purple800: #240046;
+    --color-purple900: #10002B;
+}
