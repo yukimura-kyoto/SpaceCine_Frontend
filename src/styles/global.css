@@ -1,0 +1,7 @@
+/* ------ Reset Styles ------ */
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box; /* Garante que o elemento tenha largura e altura que eu defini, mesmo após o padding */
+}
