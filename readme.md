@@ -12,3 +12,9 @@ src/
 ├── pages/
 └── styles/
 ```
+
+# Titulos do Commit
+
+Feat - Nova Funcionalidade
+Chore - Configuração
+Style - Estilos (mexer no css)
